@@ -8,7 +8,7 @@ Usage:
 
 $ python main.py
 
-Product ID to be converted: 978140007917
+Enter the Product ID to be converted to ISBN-10: 978140007917
 Resulting ISBN-10: 1400079179
 
 """
