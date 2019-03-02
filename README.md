@@ -4,6 +4,16 @@ main.py is the Main function.
 
 "src" folder is the folder containing additional resources.
 
+Options: --help
+
+Example: $python main.py
+
+Enter the Product ID to be converted to ISBN-10: 978140007917
+Resulting ISBN-10: 1400079179
+
+
+About ISBN:
+
 The International Standard Book Number (ISBN) uniquely identifies a published book with a ten digit
 number. For example, the book Coding and Information Theory by Richard Hamming, which was used
 as reference for this discussion, is uniquely coded as:
